@@ -1,4 +1,4 @@
-// functions4.rs
+// functions4.rs 
 // Execute `rustlings hint functions4` or use the `hint` watch subcommand for a hint.
 
 // This store is having a sale where if the price is an even number, you get
